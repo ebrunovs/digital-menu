@@ -104,6 +104,7 @@ const heineken = {
   descricao: '355ml',
 };
 
+// Listas com Objetos
 export const pratosPrincipais = [
   burguerPicanha,
   enroladinhoMignon,
